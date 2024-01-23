@@ -1,3 +1,3 @@
 # CMIMR
 ## 'Lightweight Cross-modal Information Mutual Reinforcement Network for RGB-T Salient Object Detection'
--Results will be publicly available after the paper has been accepted.
+-Saliency maps can be found here[https://pan.baidu.com/s/1eL_j3AQdpgmKxLaPg5nK7g] (fetch code: 0slj).
